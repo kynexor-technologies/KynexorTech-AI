@@ -5,6 +5,6 @@
 -----------------------------------------------------------------
 
 
-# VENOCYBER MD
+# KYNEXOR AI
 
-You can send anything via VODACOM Mpesa number 0749614269 <b>JASTIN ASHERY MTEWA</b>
+You can send anything via WhatsApp Number +27643779064 <b>Cadillac Cylee</b>
