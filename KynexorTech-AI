@@ -1,0 +1,7 @@
+FROM quay.io/sampandey001/secktor
+RUN git clone https://github.com/kynexor-technologies/KynexorTech-AI /root/kynexor-technologies
+WORKDIR /root/kynexor-technologies
+RUN npm install
+EXPOSE 8000
+CMD ["npm","start" ] 
+# POWERED BY KYNEXOR-TECHNOLOGIES
